@@ -1,0 +1,1 @@
+import{_ as e,o as s,c,a as o}from"./index-CNHxvDDx.js";const t={},a={class:"help"},_=o("h1",null,"This is a help page",-1),n=[_];function r(i,l){return s(),c("div",a,n)}const h=e(t,[["render",r]]);export{h as default};
