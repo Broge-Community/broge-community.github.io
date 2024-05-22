@@ -17,5 +17,15 @@
   </head>
   <body class="has-background-link-dark has-text-primary-light">
     <div id="app" height="100%"></div>
+  <script>
+      (function () {
+        var redirect = sessionStorage.redirect;
+        delete sessionStorage.redirect;
+        if (redirect && redirect != location.href) {
+          history.replaceState(null, null, redirect);
+        }
+      })();
+    </script>
+  
   </body>
 </html>
