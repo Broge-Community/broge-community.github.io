@@ -1,0 +1,1 @@
+import{_ as e,o,c as s,a as c}from"./index-DlKd29qf.js";const t={},n={class:"tokenomics"},a=c("h1",null,"This is a tokenomics page",-1),_=[a];function i(r,d){return o(),s("div",n,_)}const m=e(t,[["render",i]]);export{m as default};
