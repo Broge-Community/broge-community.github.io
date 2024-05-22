@@ -1,0 +1,1 @@
+import{_ as s,o as e,c,a as o}from"./index-CDRVJAYx.js";const a={},t={class:"socials"},_=o("h1",null,"This is a socials page",-1),n=[_];function i(r,l){return e(),c("div",t,n)}const f=s(a,[["render",i]]);export{f as default};
