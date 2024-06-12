@@ -1,1 +1,0 @@
-{"version":3,"file":"isomorphic-unfetch-B4YkeKXU.js","sources":["../../node_modules/isomorphic-unfetch/browser.js"],"sourcesContent":["module.exports = self.fetch || (self.fetch = require('unfetch').default || require('unfetch'));\n"],"names":["browser","require$$0"],"mappings":"iFAAA,IAAAA,EAAiB,KAAK,QAAU,KAAK,MAAQC,EAAmB,SAAWA","x_google_ignoreList":[0]}
